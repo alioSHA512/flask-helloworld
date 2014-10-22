@@ -1,5 +1,3 @@
-from flask.ext.pymongo import PyMongo
-
 
 class HelloWorld(object):
 
